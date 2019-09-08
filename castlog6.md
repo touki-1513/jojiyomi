@@ -39,14 +39,14 @@
 長さ：140字（ツイート1個分）  
 こんな話：田中さんと鈴木さんが夜の合唱会を楽しむお話
 
-https://twitter.com/hirosgame1/status/1168173698928394242
+[作品ツイート](https://twitter.com/hirosgame1/status/1168173698928394242)
 
 『笑み咲く月夜』  
 冒頭：あーさっぱりしたー  
 長さ：140字（ツイート1個分）  
 こんな話：田中さんと鈴木さんが静かに演奏会に耳を傾けるお話
 
-https://twitter.com/hirosgame1/status/1169558160694079488
+[作品ツイート](https://twitter.com/hirosgame1/status/1169558160694079488)
 
 **シリウスPさん（@takada_p）**  
 『特別な縁側』  
@@ -54,14 +54,14 @@ https://twitter.com/hirosgame1/status/1169558160694079488
 長さ：4000字くらい（文庫本10ページくらい）  
 こんな話：田中さんと鈴木さんも参加する縁側演奏会のお話
 
-https://twitter.com/takada_p/status/1168807714291515392
+[作品ツイート](https://twitter.com/takada_p/status/1168807714291515392)
 
 『♩♪♫』  
 冒頭：鈴虫「♩〜」  
 長さ：140字（ツイート1個分）  
 こんな話：田中さんと鈴木さんと鈴虫のお話
 
-https://twitter.com/takada_p/status/1169767180776247296
+[作品ツイート](https://twitter.com/takada_p/status/1169767180776247296)
 
 **デバッガー今井さん（@debuger_imai）**  
 『鈴木虫』  
@@ -69,7 +69,7 @@ https://twitter.com/takada_p/status/1169767180776247296
 長さ：1500字くらい（文庫本3ページくらい）  
 こんな話：鈴木さんの見た光景、あるいは田中さんの心配のお話
 
-https://twitter.com/debuger_imai/status/1168867191074091009
+[作品ツイート](https://twitter.com/debuger_imai/status/1168867191074091009)
 
 **メガナイトさん（@megaknight427）**  
 『オータムノクターン』  
@@ -77,7 +77,7 @@ https://twitter.com/debuger_imai/status/1168867191074091009
 長さ：140字（ツイート1個分）  
 こんな話：田中さんと鈴木さんの夜に響く合奏のお話
 
-https://twitter.com/megaknight427/status/1169438019692023808
+[作品ツイート](https://twitter.com/megaknight427/status/1169438019692023808)
 
 **坂木譲さん（@Sakaki_Zyo_hh）**  
 『真夜中の祭り』  
@@ -85,7 +85,7 @@ https://twitter.com/megaknight427/status/1169438019692023808
 長さ：1600字くらい（文庫本4ページ）  
 こんな話：田中さんが秋の夜に小さな祭りを眺めるお話
 
-https://twitter.com/Sakaki_Zyo_hh/status/1169982026612527110
+[作品ツイート](https://twitter.com/Sakaki_Zyo_hh/status/1169982026612527110)
 
 **橙葵（@touki_1513）**  
 『トワイライト・ベル』  
@@ -93,7 +93,7 @@ https://twitter.com/Sakaki_Zyo_hh/status/1169982026612527110
 長さ：1200字くらい（文庫本2ページくらい）  
 こんな話：田中さんと鈴木さんと買い物の帰り道のお話
 
-https://twitter.com/touki_1513/status/1170591157572657153
+[作品ツイート](https://twitter.com/touki_1513/status/1170591157572657153)
 
 ##### 次回のお題：<b></b>[放送終了後追加]
 　書いた作品の公開場所は問いません。ツイートの際に <b>「#ヒメヒナ物語」「#ジョジヨミ」</b>のタグをつけていただいた方のみ、放送ではご紹介します。  
