@@ -8,7 +8,7 @@
 ## 提出方法
 どちらかご都合の良い方で提出ください。
 - テンプレート画像に追記して、タグをつけてツイート
-  - 画像ダウンロードページ
+  - [画像ダウンロード](https://github.com/touki-1513/jojiyomi/tree/master/sheet)
 - Googleフォームに入力して、回答を送信
   - [Googleフォーム](https://forms.gle/V92qsvgJjzakE8Cc9)
 
