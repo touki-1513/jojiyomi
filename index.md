@@ -8,6 +8,10 @@
 
 ### 放送は[Twicas](https://twitcasting.tv/hmhnstory_radio)にて、**毎週日曜22:00～** 放送中
 
+### 現在進行中の企画
+
+[**ヒメヒナ物語読書感想文**](./kansou.md)
+
 ---
 ## 放送情報
 
