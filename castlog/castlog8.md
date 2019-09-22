@@ -91,7 +91,7 @@
 公開形態：Twitter/ツイート1個  
 こんな話：田中さんと鈴木さんと飽きない鬼ごっこのお話
 
-[作品ツイート]((https://twitter.com/takada_p/status/1175227636546588673?s=20)
+[作品ツイート](https://twitter.com/takada_p/status/1175227636546588673?s=20)
 
 **デバッガー今井さん（@debuger_imai）**  
 『Andante』  
