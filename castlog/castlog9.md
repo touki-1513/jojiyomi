@@ -75,7 +75,7 @@
 
 [作品ツイート](https://twitter.com/hirosgame1/status/1176821422536065024?s=20)
 
-**山田ヒノさん（@YamadaHino）**
+**山田ヒノさん（@YamadaHino）**  
 『鍵で閉じ込めた思い出の話』  
 公開形態：Twitter/画像3枚  
 冒頭：「ねえ、これってどこの鍵だっけ？」  
