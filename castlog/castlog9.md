@@ -32,80 +32,60 @@
 今回のお題：<b>鍵</b>
 
 **坂木譲さん（@Sakaki_Zyo_hh）**  
-『宝石はニンを捧ぐ』  
+[『宝石はニンを捧ぐ』](https://twitter.com/Sakaki_Zyo_hh/status/1175770807445811203?s=20)  
 公開形態：Twitter/ツイート1個  
 冒頭：真っ暗な箱の中。  
 こんな話：田中さんと鈴木さんが真っ暗な箱を変えるお話  
 
-[作品ツイート](https://twitter.com/Sakaki_Zyo_hh/status/1175770807445811203?s=20)
-
-『鍵盤上の旋律』  
+[『鍵盤上の旋律』](https://twitter.com/Sakaki_Zyo_hh/status/1176885669513220096?s=20)  
 公開形態：Twitter/画像4枚  
 冒頭：ポーン…ポロロン…  
 こんな話：鈴木さんと田中さんとピアノのお話  
 
-[作品ツイート](https://twitter.com/Sakaki_Zyo_hh/status/1176885669513220096?s=20)
-
-『かぎしっぽの恩恵』  
+[『かぎしっぽの恩恵』](https://twitter.com/Sakaki_Zyo_hh/status/1177190649033945088?s=20)  
 公開形態：Twitter/画像4枚  
 冒頭：昼下がり、ヒナとお散歩。  
 こんな話：田中さんと鈴木さんのお散歩のお話  
 
-[作品ツイート](https://twitter.com/Sakaki_Zyo_hh/status/1177190649033945088?s=20)
-
 **hiro_s_gameさん（@hirosgame1）**  
-『二人なら何でも楽しい』  
+[『二人なら何でも楽しい』](https://twitter.com/hirosgame1/status/1175771987823587329?s=20)  
 公開形態：Twitter/ツイート1個  
 冒頭：カチャリっ  
 こんな話：田中さんと鈴木さんが出かけるときのお話  
 
-[作品ツイート](https://twitter.com/hirosgame1/status/1175771987823587329?s=20)
-
-『花言葉と心の鍵』  
+[『花言葉と心の鍵』](https://twitter.com/hirosgame1/status/1176196464139091970?s=20)  
 公開形態：Twitter/ツイート1個  
 冒頭：リコリスが咲いている  
 こんな話：田中さんと鈴木さんとリコリスのお話  
 
-[作品ツイート](https://twitter.com/hirosgame1/status/1176196464139091970?s=20)
-
-『心を叫べ』  
+[『心を叫べ』](https://twitter.com/hirosgame1/status/1176821422536065024?s=20)  
 公開形態：Twitter/ツイート1個  
 冒頭：電車を降りる  
 こんな話：田中さんと鈴木さんに会いに行く誰かのお話  
 
-[作品ツイート](https://twitter.com/hirosgame1/status/1176821422536065024?s=20)
-
 **山田ヒノさん（@YamadaHino）**  
-『鍵で閉じ込めた思い出の話』  
+[『鍵で閉じ込めた思い出の話』](https://twitter.com/YamadaHino/status/1175788076934651906?s=20)  
 公開形態：Twitter/画像3枚  
 冒頭：「ねえ、これってどこの鍵だっけ？」  
 こんな話：田中さんと鈴木さんが鍵をかけたものを思い出すお話  
 
-[作品ツイート](https://twitter.com/YamadaHino/status/1175788076934651906?s=20)
-
 **ほねっこさん（@Y_shikabane）**  
-『愛鍵』  
+[『愛鍵』](https://twitter.com/Y_shikabane/status/1176864126070448130?s=20)  
 公開形態：Twitter/画像4枚  
 冒頭：部屋中ありとあらゆるところを時にひっくり返す。  
 こんな話：鈴木さんがなくした鍵のお話  
 
-[作品ツイート](https://twitter.com/Y_shikabane/status/1176864126070448130?s=20)
-
 **メガナイトさん（@megaknight427）**  
-『鍵と鍵穴』  
+[『鍵と鍵穴』](https://twitter.com/megaknight427/status/1177196440541483008?s=20)  
 冒頭：鍵は鍵だけで存在せず。  
 公開形態：Twitter/画像1枚  
 こんな話：鈴木さんにとっての田中さんの存在、あるいは逆のお話
 
-[作品ツイート](https://twitter.com/megaknight427/status/1177196440541483008?s=20)
-
 **デバッガー今井さん（@debuger_imai）**  
-『そして帰る場所』  
+[『そして帰る場所』](https://twitter.com/debuger_imai/status/1177332945587073026?s=20)  
 冒頭：その日は朝から息をつく間も無いくらい、忙しさに終われていた。  
 公開形態：Twitter/字  
 こんな話：田中さんと鈴木さんと最高になる日のお話  
-
-[作品ツイート](https://twitter.com/debuger_imai/status/1177332945587073026?s=20)
 
 次回のお題：<b></b>[放送終了後追加]  
 
