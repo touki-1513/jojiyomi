@@ -89,7 +89,7 @@
 冒頭：部屋中ありとあらゆるところを時にひっくり返す。  
 こんな話：鈴木さんがなくした鍵のお話  
 
-[作品ツイート](https://twitter.com/Y_shikabane/status/1173572686368272385?s=20)
+[作品ツイート](https://twitter.com/Y_shikabane/status/1176864126070448130?s=20)
 
 **メガナイトさん（@megaknight427）**  
 『鍵と鍵穴』  
