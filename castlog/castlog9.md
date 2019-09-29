@@ -97,7 +97,7 @@
 公開形態：Twitter/画像1枚  
 こんな話：鈴木さんにとっての田中さんの存在、あるいは逆のお話
 
-[作品ツイート](https://twitter.com/megaknight427/status/1173591380582490113?s=20)
+[作品ツイート](https://twitter.com/megaknight427/status/1177196440541483008?s=20)
 
 **デバッガー今井さん（@debuger_imai）**  
 『そして帰る場所』  
