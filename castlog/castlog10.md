@@ -94,7 +94,7 @@
 #### ②即興140字 お題募集
 MCがコメントで募集したお題から一つを選び、放送終了後に即興で140字のヒメヒナ物語を書きます。
 
-今回のお題：［銀杏］(https://twitter.com/hmhnStory_Radio/status/1181205537335103488?s=20)
+今回のお題：[銀杏](https://twitter.com/hmhnStory_Radio/status/1181205537335103488?s=20)
 
 ### 3. EDトーク
 
