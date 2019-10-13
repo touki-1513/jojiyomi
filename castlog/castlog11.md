@@ -1,6 +1,6 @@
 # ジョジなら読もうぜ物語！　第11回放送
 
-放送のアーカイブ（Twicas）はこちらから
+放送のアーカイブ（Twicas）は[こちら](https://twitcasting.tv/hmhnstory_radio/movie/572252724)から
 
 ## 今日のトピック
 1. OPトーク
