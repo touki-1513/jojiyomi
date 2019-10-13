@@ -17,16 +17,16 @@
 
 |紹介作品：[『ふたりにしかないもの』](https://twitter.com/satsuki_1128/status/1132571612736155648?s=20)|
 |---|
-|![今井さんの感想1](castlog/kansou/i_1.png)|
+|![今井さんの感想1](./kansou/i_1.png)|
 
 |紹介作品：[『ふたりにしかないもの』](https://twitter.com/satsuki_1128/status/1132571612736155648?s=20)|
 |---|
-|![今井さんの感想2](./kansou/i_2.jpg)|
+|![今井さんの感想2](./kansou/i_2.png)|
 
 |紹介作品：[『ふたりにしかないもの』](https://twitter.com/satsuki_1128/status/1132571612736155648?s=20)|
 |---|
-|![今井さんの感想3](./kansou/i_3.jpg)|
+|![今井さんの感想3](./kansou/i_3.png)|
 
 |紹介作品：[『ふたりにしかないもの』](https://twitter.com/satsuki_1128/status/1132571612736155648?s=20)|
 |---|
-|![今井さんの感想4](./kansou/i_4.jpg)|
+|![今井さんの感想4](./kansou/i_4.png)|
