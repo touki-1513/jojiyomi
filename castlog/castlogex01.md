@@ -1,4 +1,4 @@
-# ジョジなら読もうぜ物語！　番外編放送
+# ジョジなら読もうぜ物語！　番外編
 
 放送のアーカイブ（Twicas）は[こちら](https://twitcasting.tv/hmhnstory_radio/movie/572617297)から
 
