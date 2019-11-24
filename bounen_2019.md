@@ -10,7 +10,7 @@
 
 ## 参加方法
 ### 話したい人
-Discordサーバを立てるので、そちらからjoinしてください。  
+Discordサーバを立てるので、[こちらからjoin](https://discord.gg/Qg7pXZA)してください。  
 
 ### 聞きたい人
 いつものラジオのTwicasから放送予定です。  
