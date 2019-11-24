@@ -8,6 +8,9 @@
 
 ### 放送は[Twicas](https://twitcasting.tv/hmhnstory_radio)にて、**毎週日曜22:00～** 放送中
 
+### 実施予定の企画
+**[ジョジヨミオンライン忘年会](./bounen_2019.md)**
+
 ---
 ## 放送情報
 
