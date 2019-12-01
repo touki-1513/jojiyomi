@@ -47,3 +47,6 @@
 
 [HIMEHINA 1st ワンマンライブ「心を叫べ」に参加する方へ](./advice.md)  
 [HIMEHINA 1st ワンマンライブ「心を叫べ」を120%楽しむために](./oneman.md)
+
+---
+[[WIP]「ヒメヒナ朗読」採用作品のご紹介](./roudoku.md)
