@@ -18,8 +18,8 @@
 | 日付 | タイトル | 作者 | 作品リンク |
 |---|---|---|---|
 | 2019/11/27 | [逆転ロール](./roudoku/2019112701.md) | 橙葵 | [Pixiv](https://www.pixiv.net/novel/show.php?id=11616946) |
-| 2019/10/11 | ある梅雨の日 | デバッガー今井さん | [Pixiv](https://www.pixiv.net/novel/show.php?id=11409650) |
-| 2019/10/11 | 傘の下の太陽 | デバッガー今井さん | [Pixiv](https://www.pixiv.net/novel/show.php?id=11454473) |
+| 2019/10/11 | [ある梅雨の日](./roudoku/2019101102.md) | デバッガー今井さん | [Pixiv](https://www.pixiv.net/novel/show.php?id=11409650) |
+| 2019/10/11 | [傘の下の太陽](./roudoku/2019101101.md) | デバッガー今井さん | [Pixiv](https://www.pixiv.net/novel/show.php?id=11454473) |
 | 2019/09/26 | 心を叫べ | すだちとぽんずさん | [Twitter](https://twitter.com/sudachito/status/1153590872123985920?s=20) |
 | 2019/09/13 |  |  |  |
 | 2019/08/30 |  |  |  |
