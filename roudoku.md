@@ -17,6 +17,7 @@
 
 | 日付 | タイトル | 作者 | 作品リンク |
 |---|---|---|---|
+| 2019/12/27 | あの星座のように | ほねっこさん | [Twitter](https://twitter.com/Y_shikabane/status/1194622141041233923?s=20) |
 | 2019/12/11 | [かぎしっぽの恩恵](./roudoku/2019121101.md) | 坂木 譲さん | [Pixiv](https://www.pixiv.net/novel/show.php?id=11726468) |
 | 2019/11/27 | [逆転ロール](./roudoku/2019112701.md) | 橙葵 | [Pixiv](https://www.pixiv.net/novel/show.php?id=11616946) |
 | 2019/10/11 | [ある梅雨の日](./roudoku/2019101101.md) | デバッガー今井さん | [Pixiv](https://www.pixiv.net/novel/show.php?id=11409650) |
