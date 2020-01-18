@@ -35,8 +35,12 @@
 |[第3回](/castlog/castlog03.md)|2019/08/18|ひまわり|煽り運転|
 |[第2回](/castlog/castlog02.md)|2019/08/11|海|缶ジュース|
 |[第1回](/castlog/castlog01.md)|2019/08/04|花火|日焼け|
-|[プレ放送第2回](/castlog/castlogpre02.md)|2019/07/29|（なし）|（なし）|
-|[プレ放送第1回](/castlog/castlogpre01.md)|2019/07/28|（なし）|（なし）|
+
+### プレ放送情報
+|放送回|放送日|
+|---|---|---|---|
+|[第2回](/castlog/castlogpre02.md)|2019/07/29|
+|[第1回](/castlog/castlogpre01.md)|2019/07/28|
 
 
 
