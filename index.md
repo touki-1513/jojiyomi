@@ -26,12 +26,19 @@
 |[番外編](/castlog/castlogex01.md)|2019/10/15|（なし）|（なし）|
 |[第11回](/castlog/castlog11.md)|2019/10/13|（お休み）|コロッケ|
 |[第10回](/castlog/castlog10.md)|2019/10/07|コスモス|銀杏|
-|[第9回](/castlog/castlog9.md)|2019/09/29|鍵|スケッチブック|
-|[第8回](/castlog/castlog8.md)|2019/09/22|時計|電池（切れてる）|
-|[第7回](/castlog/castlog7.md)|2019/09/15|月見|鏡|
-|[第6回](/castlog/castlog6.md)|2019/09/08|鈴虫|洗濯ばさみ|
+|[第9回](/castlog/castlog09.md)|2019/09/29|鍵|スケッチブック|
+|[第8回](/castlog/castlog08.md)|2019/09/22|時計|電池（切れてる）|
+|[第7回](/castlog/castlog07.md)|2019/09/15|月見|鏡|
+|[第6回](/castlog/castlog06.md)|2019/09/08|鈴虫|洗濯ばさみ|
+|[第5回](/castlog/castlog05.md)|2019/09/08|||
+|[第4回](/castlog/castlog04.md)|2019/09/08|||
+|[第3回](/castlog/castlog03.md)|2019/09/08|||
+|[第2回](/castlog/castlog02.md)|2019/09/08|||
+|[第1回](/castlog/castlog01.md)|2019/09/08|||
+|[プレ放送第2回](/castlog/castlogpre02.md)|2019/09/08|||
+|[プレ放送第1回](/castlog/castlogpre01.md)|2019/09/08|||
 
-第5回以前 準備中
+
 
 ---
 ## [[WIP]「ヒメヒナ朗読」採用作品のご紹介](./roudoku.md)
