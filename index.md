@@ -30,13 +30,13 @@
 |[第8回](/castlog/castlog08.md)|2019/09/22|時計|電池（切れてる）|
 |[第7回](/castlog/castlog07.md)|2019/09/15|月見|鏡|
 |[第6回](/castlog/castlog06.md)|2019/09/08|鈴虫|洗濯ばさみ|
-|[第5回](/castlog/castlog05.md)|2019/09/08|||
-|[第4回](/castlog/castlog04.md)|2019/09/08|||
-|[第3回](/castlog/castlog03.md)|2019/09/08|||
-|[第2回](/castlog/castlog02.md)|2019/09/08|||
-|[第1回](/castlog/castlog01.md)|2019/09/08|||
-|[プレ放送第2回](/castlog/castlogpre02.md)|2019/09/08|||
-|[プレ放送第1回](/castlog/castlogpre01.md)|2019/09/08|||
+|[第5回](/castlog/castlog05.md)|2019/09/08|かみなり|ザリガニ|
+|[第4回](/castlog/castlog04.md)|2019/09/08|風鈴|お財布|
+|[第3回](/castlog/castlog03.md)|2019/09/08|ひまわり|煽り運転|
+|[第2回](/castlog/castlog02.md)|2019/09/08|海|缶ジュース|
+|[第1回](/castlog/castlog01.md)|2019/09/08|花火|日焼け|
+|[プレ放送第2回](/castlog/castlogpre02.md)|2019/09/08|（なし）|（なし）|
+|[プレ放送第1回](/castlog/castlogpre01.md)|2019/09/08|（なし）|（なし）|
 
 
 
