@@ -12,7 +12,8 @@
 
 |放送回|放送日|書いてみよう！|即興140字|
 |---|---|---|---|
-|[第22回](/castlog/castlog22.md)|2020/01/19|雪||
+|[第23回](/castlog/castlog23.md)|2020/02/02|椿||
+|[第22回](/castlog/castlog22.md)|2020/01/19|雪|アイスの棒|
 |[第21回](/castlog/castlog21.md)|2020/01/12 |初|ズル休み|
 |[第20回](https://twitcasting.tv/hmhnstory_radio/movie/583090536)|2019/12/15|（お休み）|Vtuberチップス<br>（ポテトチップス）|
 |[第19回](/castlog/castlog19.md)|2019/12/09|リボン|コーヒーミル|
