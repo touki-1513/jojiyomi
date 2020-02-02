@@ -17,6 +17,7 @@
 
 | 日付 | タイトル | 作者 | 作品リンク |
 |---|---|---|---|
+| 2020/01/31 | たっぷり包みます、ぎゅっ! | 那須野 昴さん | [Twitter](https://twitter.com/fisheureka/status/1209605575450869761?s=20) |
 | 2020/01/17 | [ふたり色を染めるもの](./roudoku/2020011701.md) | 日向 陽さん | [Twitter](https://twitter.com/haruhinata_hh/status/1199678083046891522?s=20)
 | 2019/12/27 | [あの星座のように](./roudoku/2019122701.md) | ほねっこさん | [Twitter](https://twitter.com/Y_shikabane/status/1194622141041233923?s=20) |
 | 2019/12/11 | [かぎしっぽの恩恵](./roudoku/2019121101.md) | 坂木 譲さん | [Pixiv](https://www.pixiv.net/novel/show.php?id=11726468) |
