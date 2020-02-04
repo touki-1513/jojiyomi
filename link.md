@@ -15,5 +15,5 @@
 
 ※ワンマン用にまとめたコンテンツです
 
-[HIMEHINA 1st ワンマンライブ「心を叫べ」に参加する方へ](./advice.md)  
-[HIMEHINA 1st ワンマンライブ「心を叫べ」を120%楽しむために](./oneman.md)
+- [HIMEHINA 1st ワンマンライブ「心を叫べ」に参加する方へ](./advice.md)  
+- [HIMEHINA 1st ワンマンライブ「心を叫べ」を120%楽しむために](./oneman.md)
