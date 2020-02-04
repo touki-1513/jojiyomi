@@ -1,4 +1,4 @@
-# ジョジなら読もうぜ物語！　第13回放送
+# 第13回放送
 
 放送のアーカイブ（Twicas）は[こちら](https://ssl.twitcasting.tv/hmhnstory_radio/movie/574763052)から
 
