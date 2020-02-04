@@ -1,4 +1,4 @@
-# ジョジなら読もうぜ物語！　第19回放送
+# 第19回放送
 
 放送のアーカイブ（Twicas）は[こちら](https://twitcasting.tv/hmhnstory_radio/movie/582099844)から。
 
