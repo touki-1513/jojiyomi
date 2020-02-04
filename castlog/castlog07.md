@@ -1,4 +1,4 @@
-# ジョジなら読もうぜ物語！　第7回放送
+# 第7回放送
 
 放送のアーカイブ（Twicas）は[こちら](https://twitcasting.tv/hmhnstory_radio/movie/567304611)から
 
