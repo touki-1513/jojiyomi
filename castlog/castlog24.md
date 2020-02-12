@@ -39,6 +39,11 @@
 冒頭：おなかへったねー  
 こんな話：田中さんと鈴木さんと七味のお話  
 
+[『靴下』](https://twitter.com/hirosgame1/status/1227574590961881088?s=20)  
+公開形態：Twitter/ツイート1個  
+冒頭：気持ちの良い朝。  
+こんな話：鈴木さんと田中さんと布団の中で迷子になるもののお話  
+
 **山田ヒノさん（@servantyamada）**  
 [『アロエ』](https://twitter.com/servantyamada/status/1224067293245624320?s=20)  
 公開形態：Pixiv/1492字  
