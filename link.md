@@ -17,3 +17,10 @@
 
 - [HIMEHINA 1st ワンマンライブ「心を叫べ」に参加する方へ](./advice.md)  
 - [HIMEHINA 1st ワンマンライブ「心を叫べ」を120%楽しむために](./oneman.md)
+
+## ジョジ速報更新通知bot（非公式）
+
+- [Twitter](https://twitter.com/HmhnSokuhou)
+  - 橙葵が運用する非公式の通知Bot
+  - ジョジ速報の更新をチェックしたい方にオススメ
+  - FCの更新は工務店Twitterの方が正確だと思います
