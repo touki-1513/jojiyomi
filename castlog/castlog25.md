@@ -29,12 +29,12 @@
 今回のお題：<b>夢</b>
 
 **hiro_s_gameさん（@hirosgame1）**  
-[『夢で逢えたら』](https://twitter.com/hirosgame1/status/1227623777795633152?s=20)  
+[『夢で逢えたら』 Side.N](https://twitter.com/hirosgame1/status/1227623777795633152?s=20)  
 公開形態：Twitter/ツイート1個  
 冒頭：いつもの帰り道  
 こんな話：鈴木さんと待たせ人のお話  
 
-[『夢で逢えたら』](https://twitter.com/hirosgame1/status/1227623783801872384?s=20)  
+[『夢で逢えたら』 Side.M](https://twitter.com/hirosgame1/status/1227623783801872384?s=20)  
 公開形態：Twitter/ツイート1個  
 冒頭：いつもの帰り道  
 こんな話：田中さんと待ち人のお話  
