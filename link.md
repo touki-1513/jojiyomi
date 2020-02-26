@@ -11,12 +11,20 @@
 - [マシュマロ](https://marshmallow-qa.com/hmhnstory_radio)
   - ご意見・ご感想があればぽこぽこ入れてください
 
-## HIMEHINA 1st ワンマンライブ用
+## HIMEHINA 1st ワンマンライブ
 
-※ワンマン用にまとめたコンテンツです
+※ワンマン用にまとめたページです
 
 - [HIMEHINA 1st ワンマンライブ「心を叫べ」に参加する方へ](./advice.md)  
 - [HIMEHINA 1st ワンマンライブ「心を叫べ」を120%楽しむために](./oneman.md)
+
+## 田中音楽堂オトナLIVE 2020 in TOKYO 「歌學革命宴」feat.鈴木文学堂
+
+※ライブ中のコーレス・開催関連情報をまとめたページです
+
+- [田中音楽堂オトナLIVE「歌學革命宴」feat.鈴木文学堂 参加予定の方へ](./otona_live.md)
+
+
 
 ## ジョジ速報更新通知bot（非公式）
 
