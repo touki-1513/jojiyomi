@@ -77,7 +77,7 @@
 
 
 **クズノハさん(@kuzunoha_mituba)**  
-[『なぞなぞゲーム』](https://twitter.com/kuzunoha_mituba/status/1234038399062831104?s=20)
+[『なぞなぞゲーム』](https://twitter.com/kuzunoha_mituba/status/1234038399062831104?s=20)  
 公開形態：Twitter/画像7枚  
 冒頭：「ヒーメっ！　なぞなぞしよ？」  
 こんな話：田中さんと鈴木さんと罰ゲームお話  
