@@ -20,6 +20,7 @@
 
 | 日付 | タイトル | 作者 | 原作 |
 |---|---|---|---|
+| 2020/03/27 | 明日の夕飯〜悪意なき笑顔を添えて〜 | 坂木 譲さん | [Twitter](https://twitter.com/Sakaki_Zyo_hh/status/1203201996058087424?s=20) |
 | 2020/03/13 | 君をのせて。 | フラン.さん | [Twitter](https://twitter.com/rineln/status/1133338468162031616?s=20) |
 | 2020/02/26 | 白紙 | 病弱ニートブスさん | [Pixiv](https://www.pixiv.net/novel/show.php?id=11773140) |
 | 2020/02/13 | ブランコ | しぇみさん | [Pixiv](https://www.pixiv.net/novel/show.php?id=12140817) |
