@@ -33,7 +33,7 @@
 | 2019/10/11 | [傘の下の太陽](./roudoku/2019101102.md) | デバッガー今井さん | [Pixiv](https://www.pixiv.net/novel/show.php?id=11454473) |
 | 2019/09/26 | 心を叫べ | すだちとぽんずさん | [Twitter](https://twitter.com/sudachito/status/1153590872123985920?s=20) |
 | 2019/09/13 | [WIP] |  |  |
-| 2019/08/30 | イタズラ | 無為さん | リンク無 |
+| 2019/08/30 | イタズラ | 無為さん | [Pixiv](https://www.pixiv.net/novel/show.php?id=12328244) |
 | 2019/08/16 | [WIP] |  |  |
-| 2019/07/26 | 目指したものは | 無為さん | リンク無 |
+| 2019/07/26 | 目指したものは | 無為さん | [Pixiv](https://www.pixiv.net/novel/show.php?id=12328244) |
 | 2019/07/04 | [WIP] |  |  |
