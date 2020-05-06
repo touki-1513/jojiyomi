@@ -39,6 +39,11 @@
 冒頭：今日は英語の勉強  
 こんな話：田中さんと鈴木さんと勉強のお話  
 
+[『文学堂』](https://twitter.com/hirosgame1/status/1256897608326381568?s=20)  
+公開形態：Twitter/ツイート1個  
+冒頭：ドキドキドキ    
+こんな話：鈴木さんと田中さんとステージのお話  
+
 **ほねっこさん（@Y_shikabane）**  
 [『側の光』](https://twitter.com/Y_shikabane/status/1256180651641823232?s=20)  
 公開形態：Twitter/画像7枚  
