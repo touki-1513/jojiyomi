@@ -20,6 +20,7 @@
 
 | 日付 | タイトル | 作者 | 原作 |
 |---|---|---|---|
+| 2020/05/30 | 君と過ごせる日々のため | 橙葵 | [Pixiv](https://www.pixiv.net/novel/show.php?id=12615233)
 | 2020/05/15 | 犬と猫と君と | 夏井まことさん | [Twitter](https://twitter.com/natuimacoto/status/1241379339687485440?s=20)
 | 2020/04/24 | Neon Lights | 時任都築さん | [Pixiv](https://www.pixiv.net/novel/show.php?id=12451039)
 | 2020/04/10 | ごちそうさまでした | れじさん | [Twitter](https://twitter.com/rejilej1_hh/status/1233991523835867137?s=20)
