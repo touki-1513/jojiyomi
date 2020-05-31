@@ -6,4 +6,7 @@
 「ヒメヒナ物語」を読む人・書く人を増やす活動の推進を目的としています。  
 略称は **「#ジョジヨミ」** です。
 
-### 放送は[Twicas](https://twitcasting.tv/hmhnstory_radio)にて、**毎週日曜22:00～** 放送中
+### 放送は[Twicas](https://twitcasting.tv/hmhnstory_radio)にて
+
+**放送は最終回を迎えました。  
+ご視聴ありがとうございました。**
